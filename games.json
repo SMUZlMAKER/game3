@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "f177b371-d519-41fb-ba0a-a63d9703b574",
+    "name": "low budget",
+    "paths": {
+      "save_dir_path": "C:\\Users\\mamey\\AppData\\LocalLow\\gray2rgb\\LowBudgetRepairs",
+      "exe_path": "C:\\Games\\Low-Budget Repairs (2026)\\LowBudgetRepairs.exe"
+    },
+    "process_names": [
+      "LowBudgetRepairs.exe"
+    ]
+  }
+]
